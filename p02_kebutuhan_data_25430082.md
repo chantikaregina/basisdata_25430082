@@ -24,7 +24,7 @@ Dokumen sumber utama yang dianalisis adalah **Formulir Rencana Studi (FRS) Fikti
 =================================================================
 NIM         : 25430082              Semester      : Ganjil 2026/2027
 Nama        : Chantika R. B. P.     Dosen PA      : Dr. Eng. Heri, M.T.
-Prodi       : S1 Sistem Informasi   Max SKS Boleh : 24 SKS
+Prodi       : S1 Ilmu Komputer      Max SKS Boleh : 24 SKS
 -----------------------------------------------------------------
 [Kode MK]   [Nama Mata Kuliah]          [SKS]   [Jadwal/Kelas]
 INF-101     Basis Data                    3     Senin, 08:00 (A)
