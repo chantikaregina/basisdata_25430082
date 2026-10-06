@@ -16,8 +16,7 @@ Koperasi Mahasiswa (Kopma Cendikia) adalah unit kegiatan mahasiswa yang bergerak
 
 Dokumen sumber utama yang dianalisis adalah **Nota Penjualan Toko Kopma** yang diberikan kepada pembeli/anggota saat transaksi.
 
-**Rancangan Struk / Nota Penjualan Fiktif:**
-
+```text
 =================================================================
                     KOPMA CENDIKIA REGINA
                 Jl. Universitas No. 1, Campus Area
@@ -35,6 +34,7 @@ Diskon Anggota  : Rp  2.000 (Diskon khusus P = Rp2.000)
 Total Bayar     : Rp 23.000
 Metode Bayar    : Tunai
 =================================================================
+```
 
 **Tabel Bedahan Dokumen Sumber:**
 
